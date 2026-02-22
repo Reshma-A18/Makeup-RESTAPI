@@ -1,11 +1,11 @@
 # ThreadEx - Spring Boot REST API Project
 
-## 🔹 Project Overview
+## Project Overview
 **ThreadEx** is a Spring Boot REST API project for managing makeup products.  
 It demonstrates **CRUD operations**, service and repository layers, and clean API design.  
 This project is designed to showcase hands-on skills in **Java, Spring Boot, REST APIs, and database integration**
 
-## 🔹 Technologies Used
+## Technologies Used
 - **Java 21**
 - **Spring Boot 3.x**
 - **Maven**
@@ -15,7 +15,7 @@ This project is designed to showcase hands-on skills in **Java, Spring Boot, RES
 
 ---
 
-## 🔹 Features
+## Features
 - Create, Read, Update, Delete (CRUD) operations for makeup products
 - Clear separation of concerns with **Controller → Service → Repository**
 - RESTful API design
@@ -23,7 +23,7 @@ This project is designed to showcase hands-on skills in **Java, Spring Boot, RES
 
 ---
 
-## 🔹 REST API Endpoints
+## REST API Endpoints
 
 | HTTP Method | Endpoint                | Description                  |
 |------------|------------------------|------------------------------|
